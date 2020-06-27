@@ -1,4 +1,4 @@
-# react-starter
+# react-express-starter
 
 ## Description
 A simple base for starting React </br>
