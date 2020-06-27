@@ -15,7 +15,7 @@ Of course, hotreload is also supported
 ## Usage
 **develop mode**
 ```
-$ npm run dev
+$ yarn dev
 ```
 
 default operates with the following settings
@@ -27,17 +27,17 @@ default operates with the following settings
 
 **production mode**
 ```
-$ npm run start
+$ yarn start
 ```
 compile the client code and route it on the server.</br>
 therefore, only the server will be in operation
 
 **test**
 ```
-$ npm run test
+$ yarn test
 ```
 
 **lint**
 ```
-$ npm run lint
+$ yarn lint
 ```
